@@ -8,7 +8,7 @@ Not yet updated for this upcoming season.
 
 ## R Scripts
 
-*Airyards
+* Airyards
 
 Generates a chart of average air yards per attempt by team.
 
